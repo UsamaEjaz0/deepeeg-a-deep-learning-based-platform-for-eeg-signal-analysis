@@ -1,11 +1,11 @@
 
-/***************************************************************************************
-*    Title: auto-eeg-diagnosis-example
-*    Author: Robin T. Schirrmeister
-*    Date: Oct 25, 2017
-*    Availability: https://github.com/robintibor/auto-eeg-diagnosis-example
-*
-***************************************************************************************/
+# /***************************************************************************************
+# *    Title: auto-eeg-diagnosis-example
+# *    Author: Robin T. Schirrmeister
+# *    Date: Oct 25, 2017
+# *    Availability: https://github.com/robintibor/auto-eeg-diagnosis-example
+# *
+# ***************************************************************************************/
 import logging
 import time
 from copy import copy
