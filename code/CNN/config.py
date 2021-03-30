@@ -2,8 +2,8 @@
 # below these given folders
 # Folders should contain all normal and abnormal data files without duplications
 data_folders = [
-    'v2.0.0/normal',
-    'v2.0.0/abnormal']
+    '/content/gdrive/MyDrive/EEG/data/normal',
+    '/content/gdrive/MyDrive/EEG/data/abnormal']
 n_recordings = None  # set to an integer, if you want to restrict the set size
 sensor_types = ["EEG"]
 n_chans = 21
